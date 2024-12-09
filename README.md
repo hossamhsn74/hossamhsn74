@@ -49,18 +49,18 @@ Hi there! 👋 I'm a **Senior Software Engineer** with a passion for building sc
 ## 📂 **Professional Experience**  
 
 ### **Senior Software Engineer**  
-🏢 **ITWorx, Egypt** 
+🏢 **ITWorx, Egypt** |
 📅 *July 2022 - August 2024*  
 
 ### **Software Engineer**  
-🏢 **eFinance, Egypt** 
+🏢 **eFinance, Egypt** |
 📅 *July 2021 - June 2022*  
 
 ### **Software Engineer**  
-🏢 **Hood, Egypt** 
+🏢 **Hood, Egypt** |
 📅 *March 2021- June 2021*  
 
 ### **Software Engineer**  
-🏢 **tactful.ai** 
+🏢 **tactful.ai** |
 📅 *March 2020 - February 2021*  
 
