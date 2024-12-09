@@ -39,30 +39,6 @@ Hi there! 👋 I'm a **Senior Software Engineer** with a passion for building sc
 
 ---
 
-## 🌟 **Key Projects**  
-
-### 🚀 **[Project 1: Real-Time Financial Analytics Platform](#)**  
-**Technologies:** Python, Django, PostgreSQL, AWS Lambda, S3  
-- Developed a real-time dashboard for financial data visualization.  
-- Implemented secure authentication and optimized query performance by 35%.  
-
-### 🌐 **[Project 2: Distributed Microservices Architecture](#)**  
-**Technologies:** FastAPI, Docker, AWS ECS, Redis, Celery  
-- Designed and implemented microservices for a high-traffic e-commerce application.  
-- Reduced latency by 40% through optimized caching and asynchronous processing.  
-
-### 📱 **[Project 3: Cross-Platform Mobile App](#)**  
-**Technologies:** Flutter, Firebase, AWS S3  
-- Built a mobile app with real-time data synchronization and offline support.  
-- Deployed via CI/CD pipelines with test automation (Pytest, Flutter Testing).  
-
-### 💡 **[Project 4: CI/CD Automation Pipeline](#)**  
-**Technologies:** Docker, GitHub Actions, AWS CodePipeline  
-- Automated build and deployment pipelines for a cloud-native application.  
-- Achieved a 50% reduction in deployment time.  
-
----
-
 ## 🔗 **Let's Connect!**  
 
 - [LinkedIn](https://www.linkedin.com/in/hossamhassan74/)  
@@ -73,24 +49,18 @@ Hi there! 👋 I'm a **Senior Software Engineer** with a passion for building sc
 ## 📂 **Professional Experience**  
 
 ### **Senior Software Engineer**  
-🏢 **ITWorx, Egypt** | *[Placeholder for 1st Company]*  
+🏢 **ITWorx, Egypt** 
 📅 *July 2022 - August 2024*  
 
 ### **Software Engineer**  
-🏢 **eFinance, Egypt** | *[Placeholder for 2nd Company]*  
+🏢 **eFinance, Egypt** 
 📅 *July 2021 - June 2022*  
 
 ### **Software Engineer**  
-🏢 **Hood, Egypt** | *[Placeholder for 3rd Company]*  
+🏢 **Hood, Egypt** 
 📅 *March 2021- June 2021*  
 
 ### **Software Engineer**  
-🏢 **tactful.ai** | *[Placeholder for 4th Company]*  
+🏢 **tactful.ai** 
 📅 *March 2020 - February 2021*  
-
----
-
-## 👀 **Profile Visitor Counter**  
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=hossamhsn74)  
 
